@@ -1,0 +1,6 @@
+Basic info on sequences for guest coders
+
+Host species: Pocillopora damicornis
+Seq type: 50bp single end Illumina 
+12 cell sorted populations through FACS with <enter flour tags>
+
